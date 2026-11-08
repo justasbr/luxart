@@ -1,0 +1,11 @@
+version = 1
+revision = 3
+requires-python = ">=3.10"
+
+[options]
+exclude-newer = "2026-07-24T13:10:32Z"
+
+[[package]]
+name = "paveikslai"
+version = "0.1.0"
+source = { virtual = "." }

@@ -1,0 +1,6 @@
+[project]
+name = "paveikslai"
+version = "0.1.0"
+description = "Local Luxart catalogue with size-range search"
+requires-python = ">=3.10"
+dependencies = []
